@@ -38,6 +38,7 @@ dependencies:
   # Passo 9: Adicionando a dependência para armazenamento local.
   # Depois de adicionar esta linha, o Flutter irá baixar o pacote para você.
   shared_preferences: ^2.0.15 # Use a versão mais recente que encontrar
+  provider: ^6.0.5
 
 dev_dependencies:
   flutter_test:
